@@ -1,7 +1,9 @@
 ---
-title: "INT214: Workshop"
-author: "by: _____________"
-output: html_document
+title: 'INT214: Workshop'
+author: 'by: _____________'
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ## R Markdown
